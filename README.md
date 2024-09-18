@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋    [![](https://visitcount.itsvg.in/api?id=ayush-1123&icon=3&color=6)](https://visitcount.itsvg.in)
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I loves photography!!**
 
-
+## About Me
+Computer Science graduate with a strong foundation in programming, data structures, and algorithms. Skilled in various technologies including Python, Java, SQL, and web development. Completed projects involving machine learning, web applications, and database management. Passionate about solving complex problems and continuously improving technical skills. Seeking a challenging position to leverage my skills and contribute to the success of a dynamic organization.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-677874220/) 
@@ -32,6 +33,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=ayush-1123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayush-1123&icon=3&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
