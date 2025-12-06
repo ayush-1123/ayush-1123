@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Backend Technologies**
-- 🌱 I’m currently learning **Full-Stack Web Dev**
+- 🌱 I’m currently learning **AI Agents & AI Development**
 - 👯 I’m looking to collaborate on Open-Source platforms
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **ayush.gkp.100@gmail.com**
